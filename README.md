@@ -34,7 +34,7 @@ MMMMMMNNgggggggNMMMMMMMMMMMM@^     .MMMMM!   .MMM#    MMMM]   .MMMMb    ,MMMMM. 
 MMMMMMMMMMMMMMMMMMMMMMMM#"`      .MMMMM@    .MMMM%   .MMMM\    MMMMN     MMMMM]     MMMMMN.
 ```
 
-- 「TypeScript で解説する催眠術のかけ方」のサンプルコードだよ
+- 「[TypeScript で解説する催眠術のかけ方](https://docs.google.com/presentation/d/1yDLtYsh-9eo6IrSbjLPgPqSdiYGv4jtuuudtriDke5k/edit?usp=sharing)」のサンプルコードだよ
 - ここで説明している催眠術の技術はコードの都合上いろいろ端折ってるよ
 - 催眠術はとってもたのしい技術だけど、当然ながら被験者とのラポール構築がじゅうぶんでないとどんな暗示もかからないよ
 - 被験者が楽しい時間になるよう施術者は深く注意してね
